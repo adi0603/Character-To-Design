@@ -1,3 +1,7 @@
+/* Code Done By 
+ * Aditya Pandey
+*/
+
 import java.io.*;
 class Name_Pattern
 {
